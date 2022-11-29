@@ -1,8 +1,8 @@
 # UtilQuick　Android快速开发基础封装
 
 ## Step 1. Add the JitPack repository to your build file
-allprojects {
-　repositories {<br>
+allprojects {　<br>
+　repositories {　<br>
 　　　... <br>
 　　　maven { url 'https://jitpack.io' } <br>
 　　} <br>
